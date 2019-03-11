@@ -346,6 +346,9 @@ nav {
   font-size: 2em;
   letter-spacing: -0.02em;
 }
+.tagline.event {
+  margin-bottom: 10px;
+}
 .call-action-area .price {
   font-size: 4em;
   vertical-align: center;
